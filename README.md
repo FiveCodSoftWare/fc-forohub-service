@@ -1,10 +1,6 @@
 # 🌐 ForoHub
 
-<p align="center">
-  <img src="https://github.com/Orliluq/ForoHub/assets/122529721/952e8461-2eac-4c28-8fd0-bb676e672528" alt="ForoHub Logo" width="200"/>
-</p>
-
-ForoHub es una plataforma de discusión moderna y robusta, diseñada para fomentar conversaciones significativas y compartir conocimientos. Con una interfaz intuitiva y funcionalidades potentes, ForoHub proporciona un espacio digital donde los usuarios pueden conectarse, debatir y aprender.
+ForoHub proporciona un espacio digital donde los usuarios pueden conectarse, debatir y aprender.
 
 ## 🌟 Características principales
 
